@@ -1,17 +1,19 @@
 {
   "name": "your-marketing-department",
+  "displayName": "Your Marketing Department, 24/7 in Claude",
   "version": "0.1.0",
   "description": "Your Marketing Department, 24/7 in Claude: a Marketing Lead and 25 agents on one org chart, with you on top. Each agent has one goal, and nothing goes out without your OK.",
   "author": {
     "name": "Luba Inz, Efficiency Sprint"
   },
   "homepage": "https://efficiencysprint.com/marketing-department",
+  "repository": "https://github.com/luba-hub/your-marketing-department",
+  "license": "MIT",
   "keywords": [
     "marketing",
     "small business",
     "content",
     "lead generation",
     "agents"
-  ],
-  "license": "MIT"
+  ]
 }

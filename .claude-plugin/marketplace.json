@@ -1,0 +1,13 @@
+{
+  "name": "efficiency-sprint",
+  "description": "Free Claude plugins from Efficiency Sprint: departments that work with you on top.",
+  "owner": {
+    "name": "Luba Inz, Efficiency Sprint"
+  },
+  "plugins": [
+    {
+      "name": "your-marketing-department",
+      "source": "./"
+    }
+  ]
+}
