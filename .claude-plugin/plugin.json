@@ -6,5 +6,12 @@
     "name": "Luba Inz, Efficiency Sprint"
   },
   "homepage": "https://efficiencysprint.com/marketing-department",
-  "keywords": ["marketing", "small business", "content", "lead generation", "agents"]
+  "keywords": [
+    "marketing",
+    "small business",
+    "content",
+    "lead generation",
+    "agents"
+  ],
+  "license": "MIT"
 }

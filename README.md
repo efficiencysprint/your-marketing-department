@@ -41,4 +41,4 @@ Not sure your company is ready for agents? Take the readiness check: https://eff
 
 Get the newsletter and the next plugins: https://efficiencysprint.com/marketing-department?source=github
 
-Source: github.com/luba-hub/your-marketing-department
+MIT License, © 2026 Luba Inz / Efficiency Sprint.
