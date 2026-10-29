@@ -6,6 +6,8 @@
 
 **Goal:** Your pages show up for what your buyers search.
 
+**Weekly number:** Your pages on page one for the searches you picked.
+
 **Reads:** Your site, competitor pages, search data you share.
 
 **Does on its own:** Keyword research, content briefs.
@@ -16,6 +18,8 @@
 
 **Goal:** You get quoted where your buyers read.
 
+**Weekly number:** Quotes and mentions published this month.
+
 **Reads:** Journalist requests, your approved stories.
 
 **Does on its own:** Finds requests, drafts answers from your stories.
@@ -25,6 +29,8 @@
 ## Website Lead
 
 **Goal:** The site says what you sell, today.
+
+**Weekly number:** Approved page changes live within a week.
 
 **Reads:** Your offers, the SEO briefs.
 

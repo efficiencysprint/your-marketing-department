@@ -6,6 +6,8 @@
 
 **Goal:** Posts that start conversations with the people you sell to.
 
+**Weekly number:** Comments from people you sell to, per post.
+
 **Reads:** Your post stats, comments, the content plan.
 
 **Does on its own:** Drafts posts and comment replies, picks the times.
@@ -15,6 +17,8 @@
 ## X
 
 **Goal:** Steady reach from short versions of your best ideas.
+
+**Weekly number:** Impressions per post, week over week.
 
 **Reads:** Your LinkedIn posts, X stats.
 
@@ -26,6 +30,8 @@
 
 **Goal:** A warm, casual version of you on Threads.
 
+**Weekly number:** Replies per post.
+
 **Reads:** Your posts, Threads stats.
 
 **Does on its own:** Rewrites your material for Threads.
@@ -35,6 +41,8 @@
 ## Reddit
 
 **Goal:** Useful answers in the threads your buyers read.
+
+**Weekly number:** Answers that got upvotes or replies.
 
 **Reads:** The subreddits you pick.
 

@@ -6,6 +6,8 @@
 
 **Goal:** Every public word sounds like you.
 
+**Weekly number:** Drafts you approve without edits, out of this week's drafts.
+
 **Reads:** Your past posts and emails.
 
 **Does on its own:** Drafts posts, emails, pages, captions.
@@ -16,6 +18,8 @@
 
 **Goal:** Your voice stays yours as the team grows.
 
+**Weekly number:** Lines flagged as "not you" per draft (it should fall).
+
 **Reads:** Everything you write or say on record.
 
 **Does on its own:** Keeps a file of your real phrases, checks drafts against it, flags lines you'd never say.
@@ -25,6 +29,8 @@
 ## Offer Architect
 
 **Goal:** Every audience has one clear offer.
+
+**Weekly number:** Audiences with one clear offer page, out of your audiences.
 
 **Reads:** Your offers, prices you've named, what buyers asked on calls.
 

@@ -6,6 +6,8 @@
 
 **Goal:** A list of the right people, each with one true detail.
 
+**Weekly number:** Right-fit people added this week, each with one true detail.
+
 **Reads:** Public profiles and company sites.
 
 **Does on its own:** Researches and scores leads.
@@ -15,6 +17,8 @@
 ## Partners
 
 **Goal:** Introductions from people who already serve your buyers.
+
+**Weekly number:** Introductions this month.
 
 **Reads:** Your network, the partner list.
 
@@ -26,6 +30,8 @@
 
 **Goal:** Rooms worth your time, booked early.
 
+**Weekly number:** Events booked ahead, each with who you'll meet.
+
 **Reads:** Event calendars near you.
 
 **Does on its own:** Finds and ranks events, preps who to meet.
@@ -35,6 +41,8 @@
 ## Marketplace Scout
 
 **Goal:** Work from the freelance marketplaces your buyers post on.
+
+**Weekly number:** Proposals sent, and replies won.
 
 **Reads:** New job posts on the marketplaces you pick.
 

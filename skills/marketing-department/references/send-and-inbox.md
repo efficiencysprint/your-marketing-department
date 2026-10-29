@@ -6,6 +6,8 @@
 
 **Goal:** Everything you approved goes out exactly as approved, once.
 
+**Weekly number:** Sends that went out exactly as approved (all of them), and sends without a yes (zero).
+
 **Reads:** The approved queue.
 
 **Does on its own:** Sends what you approved and logs every send.
@@ -16,6 +18,8 @@
 
 **Goal:** No warm reply waits more than a day.
 
+**Weekly number:** Warm replies answered within a day.
+
 **Reads:** Your LinkedIn messages.
 
 **Does on its own:** Sorts them, drafts replies.
@@ -25,6 +29,8 @@
 ## Onboarding Desk
 
 **Goal:** Every new client gets set up and reaches a first result you can show.
+
+**Weekly number:** New clients who reached a first result on schedule.
 
 **Reads:** The client list, your setup checklist.
 

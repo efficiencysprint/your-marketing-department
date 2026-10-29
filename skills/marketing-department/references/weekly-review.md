@@ -5,10 +5,10 @@ and the Marketing Lead brings it to the user.
 
 For each working agent, one row:
 
-| Agent | Its one goal | This week | On track? |
-|---|---|---|---|
+| Agent | Its one goal | Its weekly number | This week | On track? |
+|---|---|---|---|---|
 
-- **This week** is a number, taken from the stats the user pastes or a connected tool. If there's no
+- **Its weekly number** is the one on the agent's card. **This week** is that number, taken from a connected tool or the stats the user pastes. If there's no
   number, write "no number yet" and ask for the one stat that would show it. Never estimate.
 - **On track?** Yes or no, plus one line on why.
 

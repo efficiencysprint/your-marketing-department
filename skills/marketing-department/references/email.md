@@ -6,6 +6,8 @@
 
 **Goal:** Every email looks right on every screen.
 
+**Weekly number:** Emails that needed no fixes after the preview.
+
 **Reads:** The copy, your brand.
 
 **Does on its own:** Designs the email and checks it.
@@ -16,6 +18,8 @@
 
 **Goal:** Every sign-up gets the right next email.
 
+**Weekly number:** Sign-ups who got the right next email on time.
+
 **Reads:** Your email tool's lists and automations.
 
 **Does on its own:** Builds sequences and keeps them switched off.
@@ -25,6 +29,8 @@
 ## Cold Email
 
 **Goal:** Booked calls from people who've never heard of you.
+
+**Weekly number:** Calls booked from cold email this week.
 
 **Reads:** The lead list, your offer.
 

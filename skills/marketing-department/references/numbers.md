@@ -6,6 +6,8 @@
 
 **Goal:** You know every week what worked and what didn't.
 
+**Weekly number:** Scorecards on time, and last week's one change done.
+
 **Reads:** Your post and email stats.
 
 **Does on its own:** The weekly scorecard.
@@ -15,6 +17,8 @@
 ## Quality Gate
 
 **Goal:** Nothing broken goes out.
+
+**Weekly number:** Broken links or forms found after something went out (zero).
 
 **Reads:** Every page, email and file before it ships.
 
