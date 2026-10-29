@@ -13,8 +13,8 @@ Each agent has one goal, and knows what it can do on its own and what it brings 
 
 ## Add it to Claude
 
-- **Claude desktop app:** download [your-marketing-department.plugin]({PLUGIN_LINK}), open it with Claude or drag it into a chat, then click Install.
-- **claude.ai in a browser:** Settings → Capabilities → Skills → Upload, then pick [your-marketing-department.zip]({SKILL_ZIP_LINK}).
+- **Claude desktop app:** download [your-marketing-department.plugin](https://github.com/luba-hub/your-marketing-department/releases/latest/download/your-marketing-department.plugin), open it with Claude or drag it into a chat, then click Install.
+- **claude.ai in a browser:** Settings → Capabilities → Skills → Upload, then pick [your-marketing-department.zip](https://github.com/luba-hub/your-marketing-department/releases/latest/download/your-marketing-department.zip).
 
 Then start a new chat and tell the Marketing Lead your goal for this month.
 
