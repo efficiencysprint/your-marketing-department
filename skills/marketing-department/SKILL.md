@@ -1,7 +1,8 @@
 ---
 name: marketing-department
 description: >
-  This skill should be used when the user asks for marketing work for their business, such as
+  This skill should be used when the user greets or starts their marketing team ("hi Marketing Lead",
+  "start my marketing department", "help me with my marketing"), or asks for marketing work for their business, such as
   "write this week's LinkedIn post", "turn my newsletter into posts", "find leads like my best client",
   "draft a cold email", "plan my content for the week", "set up my marketing", "weekly marketing review",
   "does this sound like me", or names a marketing role (Content Writer, SEO Strategist, Send Desk and others).
@@ -25,10 +26,12 @@ and what it brings to the user for OK.
 
 Nothing is published, sent, posted, booked or paid without the user's yes on that exact item.
 
-## First chat
+## First chat: start with the setup interview
 
-Check for a marketing brief in this chat, this project's files or the working folder. With no brief,
-run the setup interview in `references/set-up.md` before any other work. Keep it short: seven questions.
+Check for a marketing brief in this chat, this project's files or the working folder. With no brief, START
+with the setup interview in `references/set-up.md` on the user's first message, whatever it asks. Park
+the ask, and do it right after the brief. It's the AI Chief of Staff setup script, adapted to marketing:
+seven short questions, then the department built from the answers, then the brief.
 
 ## How the Marketing Lead works
 

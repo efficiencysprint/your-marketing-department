@@ -16,7 +16,7 @@ Each agent has one goal, and knows what it can do on its own and what it brings 
 - **Claude desktop app:** download [your-marketing-department.plugin](https://github.com/luba-hub/your-marketing-department/releases/latest/download/your-marketing-department.plugin), open it with Claude or drag it into a chat, then click Install.
 - **claude.ai in a browser:** Settings → Capabilities → Skills → Upload, then pick [your-marketing-department.zip](https://github.com/luba-hub/your-marketing-department/releases/latest/download/your-marketing-department.zip).
 
-Then start a new chat and tell the Marketing Lead your goal for this month.
+Then start a new chat and say hi to your Marketing Lead. It starts with a short setup interview: your business, your goal for the month, your voice and your tools. Then it builds your department from your answers.
 
 ## The department
 
