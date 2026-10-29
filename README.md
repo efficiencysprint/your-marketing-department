@@ -14,10 +14,10 @@ Each agent has one goal, and knows what it can do on its own and what it brings 
 ## Add it to Claude
 
 In the Claude app, open **Customize → Plugins**, then either:
-- **Upload the file:** download [your-marketing-department.plugin](https://github.com/luba-hub/your-marketing-department/releases/latest/download/your-marketing-department.plugin), choose the upload option on the Plugins page, and pick the file.
-- **Or add the marketplace:** select **Add marketplace**, enter `luba-hub/your-marketing-department`, then install **Your Marketing Department**.
+- **Upload the file:** download [your-marketing-department.plugin](https://github.com/efficiencysprint/your-marketing-department/releases/latest/download/your-marketing-department.plugin), choose the upload option on the Plugins page, and pick the file.
+- **Or add the marketplace:** select **Add marketplace**, enter `efficiencysprint/your-marketing-department`, then install **Your Marketing Department**.
 
-Prefer a single skill? [your-marketing-department.zip](https://github.com/luba-hub/your-marketing-department/releases/latest/download/your-marketing-department.zip) holds the same department as one skill to upload.
+Prefer a single skill? [your-marketing-department.zip](https://github.com/efficiencysprint/your-marketing-department/releases/latest/download/your-marketing-department.zip) holds the same department as one skill to upload.
 
 Then start a new chat and say hi to your Marketing Lead. It starts with a short setup interview: your business, your goal for the month, your voice and your tools. Then it builds your department from your answers.
 
