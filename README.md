@@ -1,6 +1,6 @@
-# Your Marketing Department, 24/7 in Claude
+# Your Marketing Department in Claude
 
-A Marketing Lead and 25 agents on one org chart, with you on top.
+A free kit: a Marketing Lead and 25 agents on one org chart, with you on top.
 
 Try these on day one:
 - "Write this week's LinkedIn post about the question my clients ask most."
@@ -42,6 +42,6 @@ Each agent has a Goal, what it Reads, what it Does on its own, and what it Bring
 
 Not sure your company is ready for agents? Take the readiness check: https://efficiencysprint.com/quiz?source=github
 
-Get the newsletter and the next plugins: https://efficiencysprint.com/marketing-department?source=github
+Get the newsletter and the next kits: https://efficiencysprint.com/marketing-department?source=github
 
 MIT License, © 2026 Luba Inz / Efficiency Sprint.
